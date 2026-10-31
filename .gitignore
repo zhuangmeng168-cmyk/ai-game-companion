@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+data/index/
+data/sft/
+models/
+build/
+dist/
+.package-test-data/
+.tmp-*
+.tmp_*
+.tmp_diag.py
+
+data/browser-profile/

@@ -1,0 +1,7 @@
+# 可选：只有在微调小模型时才需要安装，主程序不依赖这些
+torch>=2.2
+transformers>=4.44
+peft>=0.12
+datasets>=2.20
+accelerate>=0.33
+sentencepiece>=0.1.99

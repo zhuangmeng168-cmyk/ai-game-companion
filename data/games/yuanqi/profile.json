@@ -1,0 +1,11 @@
+{
+  "id": "yuanqi",
+  "name": "原神",
+  "genre": "ARPG",
+  "aliases": ["原神", "Genshin", "genshin"],
+  "window_keywords": ["原神", "Genshin"],
+  "intro": "开放世界动作 RPG，元素反应、配队和养成规划决定战斗上限。",
+  "terms": ["元素反应", "蒸发", "超载", "圣遗物", "树脂", "深渊", "配队", "主C", "充能"],
+  "quick_questions": ["配队怎么配？", "圣遗物怎么刷？", "深渊怎么打？", "体力怎么花？"],
+  "voice": {"rate": 1.0, "pitch": 1.12}
+}

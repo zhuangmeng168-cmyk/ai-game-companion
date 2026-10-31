@@ -1,0 +1,11 @@
+{
+  "id": "game-64fa4b29",
+  "name": "三角洲行动",
+  "genre": "摸金游戏",
+  "aliases": ["洲"],
+  "window_keywords": ["洲"],
+  "intro": "三角洲行动 · 玩家导入的陪玩知识",
+  "terms": [],
+  "quick_questions": ["这波怎么打？", "有什么技巧？", "我现在该干嘛？"],
+  "voice": {"rate": 1.0, "pitch": 1.05}
+}

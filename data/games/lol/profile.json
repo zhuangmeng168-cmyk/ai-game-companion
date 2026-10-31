@@ -1,0 +1,11 @@
+{
+  "id": "lol",
+  "name": "英雄联盟",
+  "genre": "MOBA",
+  "aliases": ["LOL", "lol", "英雄联盟", "撸啊撸"],
+  "window_keywords": ["League of Legends", "英雄联盟", "LOL"],
+  "intro": "5v5 端游 MOBA，对线、视野与资源运营比单杀更重要。",
+  "terms": ["补刀", "视野", "打野", "小龙", "大龙", "峡谷先锋", "TP", "传送", "装备"],
+  "quick_questions": ["对线怎么打？", "打野怎么抓？", "小龙要不要接？", "怎么出装？"],
+  "voice": {"rate": 1.0, "pitch": 1.0}
+}
